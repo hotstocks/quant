@@ -1,10 +1,10 @@
 
 ### Financial Engineering and Portfolio Optimization
 
-- 1. P1- Momentum Trading
-- 2. P2- Breakout Strategy
-- 3. P3-Portfolio Optimization
-- 4. P4-Alpha Research
+- P1- Momentum Trading
+- P2- Breakout Strategy
+- P3-Portfolio Optimization
+- P4-Alpha Research
 
 
 
