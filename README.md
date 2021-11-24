@@ -10,12 +10,21 @@
   - [Ex-Momentum Trading](https://nbviewer.org/github/hotstocks/quant/blob/main/P1-Momentum-Trading/momentum_trading/top_and_bottom_performing.ipynb)
 
 
+
 ### Breakout Strategy
 - [P2-Breakout Strategy](https://hotstocks.github.io/quant/P2-Breakout-Strategy)
+  - [Ex-Regression](https://nbviewer.org/github/hotstocks/quant/blob/main/P2-Breakout-Strategy/regression/regression.ipynb)
+  - [Ex-Time Series](https://nbviewer.org/github/hotstocks/quant/blob/main/P2-Breakout-Strategy/time_serie_modeling/autoregression_quiz.ipynb)
+  - [Ex-Volatility](https://nbviewer.org/github/hotstocks/quant/blob/main/P2-Breakout-Strategy/volatility/rolling_windows.ipynb)
+  
 
 ### Portfolio Optimization
 - [P3-Portfolio Optimization](https://hotstocks.github.io/quant/P3-Portfolio-Optimization)
--
+  - [Ex-Stock Indices](https://nbviewer.org/github/hotstocks/quant/blob/main/P3-Portfolio-Optimization/stocks_indices_funds/cumsum_and_cumprod.ipynb)
+  - [Ex-Portfolio Risk and Return](https://nbviewer.org/github/hotstocks/quant/blob/main/P3-Portfolio-Optimization/portfolio_risk_return/m3l4_covariance.ipynb)
+  - [Ex-Portfolio Optimization](https://nbviewer.org/github/hotstocks/quant/blob/main/P3-Portfolio-Optimization/portfolio_optimization/m3l4_cvxpy_advanced.ipynb)
+
+
 ### Alpha Research
 - [P4-Alpha Research](https://hotstocks.github.io/quant/P4-Alpha-Research)
 
