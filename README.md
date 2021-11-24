@@ -2,12 +2,12 @@
 ### Financial Engineering and Portfolio Optimization
 
 ### Trading with Momentum
-- [Ex-Stock Data](https://nbviewer.org/github/hotstocks/quant/blob/main/P1-Momentum-Trading/stock_data/stock_data.ipynb)
-- [Ex-Stock Returns](https://nbviewer.org/github/hotstocks/quant/blob/main/P1-Momentum-Trading/stock_returns/calculate_returns.ipynb)
-- [Ex-Market Mechanics](https://nbviewer.org/github/hotstocks/quant/blob/main/P1-Momentum-Trading/market_mechanics/resample_data.ipynb)
-- [Ex-Momentum Trading](https://nbviewer.org/github/hotstocks/quant/blob/main/P1-Momentum-Trading/momentum_trading/top_and_bottom_performing.ipynb)
------------
+
 - [P1-Momentum Trading](https://hotstocks.github.io/quant/P1-Momentum-Trading)
+  - [Ex-Stock Data](https://nbviewer.org/github/hotstocks/quant/blob/main/P1-Momentum-Trading/stock_data/stock_data.ipynb)
+  - [Ex-Stock Returns](https://nbviewer.org/github/hotstocks/quant/blob/main/P1-Momentum-Trading/stock_returns/calculate_returns.ipynb)
+  - [Ex-Market Mechanics](https://nbviewer.org/github/hotstocks/quant/blob/main/P1-Momentum-Trading/market_mechanics/resample_data.ipynb)
+  - [Ex-Momentum Trading](https://nbviewer.org/github/hotstocks/quant/blob/main/P1-Momentum-Trading/momentum_trading/top_and_bottom_performing.ipynb)
 
 
 ### Breakout Strategy
