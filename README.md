@@ -35,7 +35,7 @@
 - [P6-Sentiment-Analysis](https://hotstocks.github.io/quant/P6-Sentiment-Analysis)
 
 ### Enhanced Alpha Research
-- [P7-Enhanced-Alpha](https://hotstocks.github.io/quant/P3-Enhanced-Alpha)
+- [P7-Enhanced-Alpha](https://hotstocks.github.io/quant/P7-Enhanced-Alpha)
 
 ### Backtesting
 - [P8-Backtesting](https://hotstocks.github.io/quant/P8-Backtesting)
