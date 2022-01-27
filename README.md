@@ -57,6 +57,8 @@
 
 
 - #### Alpha Factor Research Method
+  -   [Overnight Returns](https://nbviewer.org/github/hotstocks/quant/blob/main/P4-Alpha-Research/alpha_factors_research_method/overnight_returns_solution.ipynb)
+  -   [Regression against Time](https://nbviewer.org/github/hotstocks/quant/blob/main/P4-Alpha-Research/alpha_factors_research_method/regression_against_time_solution.ipynb)
 
 
 ### Financial Statement
