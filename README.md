@@ -27,7 +27,8 @@
 
 ### Alpha Research
 - [P4-Alpha Research](https://hotstocks.github.io/quant/P4-Alpha-Research)
-- [Factors: Zipline Coding Exercise](https://nbviewer.org/github/hotstocks/quant/blob/main/P4-Alpha-Research/factors/zipline_coding_exercises.ipynb)
+- #### Factors
+  -  [Zipline Coding Exercise](https://nbviewer.org/github/hotstocks/quant/blob/main/P4-Alpha-Research/factors/zipline_coding_exercises.ipynb)
 - #### Factor Models and Types of Factors
 - #### Risk Factor Models
 - #### Time Series and Cros-sectional Risk Model
