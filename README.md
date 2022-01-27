@@ -102,12 +102,26 @@
 
 ### Enhanced Alpha Research
 - [P7-Enhanced-Alpha](https://hotstocks.github.io/quant/P7-Enhanced-Alpha)
-
+- ### Decision Tree
+  -[Ex-Titanic Servival Exploration](https://nbviewer.org/github/hotstocks/quant/blob/main/P7-Enhanced-Alpha/decision_trees/titanic_survival_exploration.ipynb)
+- ### Model Testing and Evalustion
+- ### Random Forest
+- ### Feature Engineering
+  - [Ex-Calculate Shaply Values](https://nbviewer.org/github/hotstocks/quant/blob/main/P7-Enhanced-Alpha/feature_engineering/calculate_shap.ipynb)
+  - [Ex-Feature Engineering and labeling](https://nbviewer.org/github/hotstocks/quant/blob/main/P7-Enhanced-Alpha/feature_engineering/feature_engineering.ipynb)
+  - [Ex-Rank Features](https://nbviewer.org/github/hotstocks/quant/blob/main/P7-Enhanced-Alpha/feature_engineering/rank_features.ipynb)
+- ### Overlaping Levels
+  - [Overlap Levels](https://nbviewer.org/github/hotstocks/quant/blob/main/P8-Backtesting/overlapping_labels/dependent_labels.ipynb)
+- ### Feature Importance
+  - [Ex-Feature importance in sklearn](https://nbviewer.org/github/hotstocks/quant/blob/main/P7-Enhanced-Alpha/feature_importance/sklearn_feature_importance.ipynb)
+  - [Ex-Tree Shape](https://nbviewer.org/github/hotstocks/quant/blob/main/P7-Enhanced-Alpha/feature_importance/tree_shap_solution.ipynb)
 ---------------
 
 
 ### Backtesting
 - [P8-Backtesting](https://hotstocks.github.io/quant/P8-Backtesting)
+- [Optimization with transection cost](https://nbviewer.org/github/hotstocks/quant/blob/main/P8-Backtesting/optimization_with_transaction_costs/optimization_with_tcosts_solution.ipynb)
+
 
 ---------------
 
