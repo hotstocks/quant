@@ -91,10 +91,10 @@
 - ### Deep Learning with pytorch
 - ### Recurrent Neural Network
 - ### Embedding and Word2vec
-- ### Sentiment Prediction RNN
-  - [Ex-Predicting Students Admition with NN](https://nbviewer.org/github/hotstocks/quant/blob/main/P6-Sentiment-Analysis/intro_to_neural_networks/StudentAdmissions.ipynb)
   - [Ex-Skipgram Word2vec](https://nbviewer.org/github/hotstocks/quant/blob/main/P6-Sentiment-Analysis/embeddings_word2vec/Skip_Grams_Exercise.ipynb)
   - [Ex-Negative sampling Exercise](https://nbviewer.org/github/hotstocks/quant/blob/main/P6-Sentiment-Analysis/embeddings_word2vec/Negative_Sampling_Exercise.ipynb)
+- ### Sentiment Prediction RNN
+  - [Ex-Predicting Students Admition with NN](https://nbviewer.org/github/hotstocks/quant/blob/main/P6-Sentiment-Analysis/intro_to_neural_networks/StudentAdmissions.ipynb) 
   - [Ex-Sentiment Prediction with RNN](https://nbviewer.org/github/hotstocks/quant/blob/main/P6-Sentiment-Analysis/sentiment_prediction_rnn/Sentiment_RNN_Exercise.ipynb)
 
 ---------------
