@@ -43,26 +43,26 @@
 - #### Time Series and Cros-sectional Risk Model
 
 - #### Risk Factor Model with PCA
-  - [PCA as Risk Factor Model](https://nbviewer.org/github/hotstocks/quant/blob/main/P4-Alpha-Research/risk_factor_models_pca/pca_factor_model.ipynb)
+  - [Ex-PCA as Risk Factor Model](https://nbviewer.org/github/hotstocks/quant/blob/main/P4-Alpha-Research/risk_factor_models_pca/pca_factor_model.ipynb)
   
 - #### Alpha Factor
-  - [Sector Neutral Exercise](https://nbviewer.org/github/hotstocks/quant/blob/main/P4-Alpha-Research/alpha_factors/sector_neutral_solution.ipynb)
-  - [Ranking](https://nbviewer.org/github/hotstocks/quant/blob/main/P4-Alpha-Research/alpha_factors/rank_solution.ipynb)
-  - [Z-score](https://nbviewer.org/github/hotstocks/quant/blob/main/P4-Alpha-Research/alpha_factors/zscore.ipynb)
-  - [Smothing](https://nbviewer.org/github/hotstocks/quant/blob/main/P4-Alpha-Research/alpha_factors/smoothing.ipynb)
-  - [Factor Returns](https://nbviewer.org/github/hotstocks/quant/blob/main/P4-Alpha-Research/alpha_factors/factor_returns_solution.ipynb)
-  - [PCA as Factor Model](https://nbviewer.org/github/hotstocks/quant/blob/main/P4-Alpha-Research/alpha_factors/pca_factor_model_solution.ipynb)
-  - [Clean Forward Returns](https://nbviewer.org/github/hotstocks/quant/blob/main/P4-Alpha-Research/alpha_factors/clean_forward_returns_solution.ipynb)
-  - [Sharpe Ratio](https://nbviewer.org/github/hotstocks/quant/blob/main/P4-Alpha-Research/alpha_factors/sharpe_ratio_solution.ipynb)
-  - [Ranked Information Coefficients](https://nbviewer.org/github/hotstocks/quant/blob/main/P4-Alpha-Research/alpha_factors/rank_ic_solution.ipynb)
-  - [Turnover](https://nbviewer.org/github/hotstocks/quant/blob/main/P4-Alpha-Research/alpha_factors/turnover.ipynb)
-  - [Quantile Analysis](https://nbviewer.org/github/hotstocks/quant/blob/main/P4-Alpha-Research/alpha_factors/quantiles_solution.ipynb)
-  - [Transfer Coefficient](https://nbviewer.org/github/hotstocks/quant/blob/main/P4-Alpha-Research/alpha_factors/transfer_coefficient.ipynb)
+  - [Ex-Sector Neutral Exercise](https://nbviewer.org/github/hotstocks/quant/blob/main/P4-Alpha-Research/alpha_factors/sector_neutral_solution.ipynb)
+  - [Ex-Ranking](https://nbviewer.org/github/hotstocks/quant/blob/main/P4-Alpha-Research/alpha_factors/rank_solution.ipynb)
+  - [Ex-Z-score](https://nbviewer.org/github/hotstocks/quant/blob/main/P4-Alpha-Research/alpha_factors/zscore.ipynb)
+  - [Ex-Smothing](https://nbviewer.org/github/hotstocks/quant/blob/main/P4-Alpha-Research/alpha_factors/smoothing.ipynb)
+  - [Ex-Factor Returns](https://nbviewer.org/github/hotstocks/quant/blob/main/P4-Alpha-Research/alpha_factors/factor_returns_solution.ipynb)
+  - [Ex-PCA as Factor Model](https://nbviewer.org/github/hotstocks/quant/blob/main/P4-Alpha-Research/alpha_factors/pca_factor_model_solution.ipynb)
+  - [Ex-Clean Forward Returns](https://nbviewer.org/github/hotstocks/quant/blob/main/P4-Alpha-Research/alpha_factors/clean_forward_returns_solution.ipynb)
+  - [Ex-Sharpe Ratio](https://nbviewer.org/github/hotstocks/quant/blob/main/P4-Alpha-Research/alpha_factors/sharpe_ratio_solution.ipynb)
+  - [Ex-Ranked Information Coefficients](https://nbviewer.org/github/hotstocks/quant/blob/main/P4-Alpha-Research/alpha_factors/rank_ic_solution.ipynb)
+  - [Ex-Turnover](https://nbviewer.org/github/hotstocks/quant/blob/main/P4-Alpha-Research/alpha_factors/turnover.ipynb)
+  - [Ex-Quantile Analysis](https://nbviewer.org/github/hotstocks/quant/blob/main/P4-Alpha-Research/alpha_factors/quantiles_solution.ipynb)
+  - [Ex-Transfer Coefficient](https://nbviewer.org/github/hotstocks/quant/blob/main/P4-Alpha-Research/alpha_factors/transfer_coefficient.ipynb)
 
 
 - #### Alpha Factor Research Method
-  -   [Overnight Returns](https://nbviewer.org/github/hotstocks/quant/blob/main/P4-Alpha-Research/alpha_factors_research_method/overnight_returns_solution.ipynb)
-  -   [Regression against Time](https://nbviewer.org/github/hotstocks/quant/blob/main/P4-Alpha-Research/alpha_factors_research_method/regression_against_time_solution.ipynb)
+  -   [Ex-Overnight Returns](https://nbviewer.org/github/hotstocks/quant/blob/main/P4-Alpha-Research/alpha_factors_research_method/overnight_returns_solution.ipynb)
+  -   [Ex-Regression against Time](https://nbviewer.org/github/hotstocks/quant/blob/main/P4-Alpha-Research/alpha_factors_research_method/regression_against_time_solution.ipynb)
 
 ---------------
 
@@ -71,6 +71,14 @@
 ### Financial Statement
 - [P5-NLP-Financial-Statement](https://hotstocks.github.io/quant/P5-NLP-Financial-Statement)
 
+- #### Intro to NLP 
+- #### Text Procesing
+- #### Feature Extraction
+  - [Ex-Readability](https://nbviewer.org/github/hotstocks/quant/blob/main/P5-NLP-Financial-Statement/basic_nlp_analysis/Readability_Exercises.ipynb)
+  - [Ex-Bag of words](https://nbviewer.org/github/hotstocks/quant/blob/main/P5-NLP-Financial-Statement/basic_nlp_analysis/Bag_of_Word_Exercises.ipynb)
+  - [ Ex-Process Twits](https://nbviewer.org/github/hotstocks/quant/blob/main/P5-NLP-Financial-Statement/text_processing/process_tweets.ipynb)  
+- #### Financial Statement 
+  - [Ex-Financial Statement Coding Exercise](https://nbviewer.org/github/hotstocks/quant/blob/main/P5-NLP-Financial-Statement/financial_statements/coding_exercise.ipynb)
 
 ---------------
 
@@ -78,6 +86,16 @@
 ### Sentiment Analysis
 - [P6-Sentiment-Analysis](https://hotstocks.github.io/quant/P6-Sentiment-Analysis)
 
+- ### Introduction to Neural Network
+- ### Training Neural Network
+- ### Deep Learning with pytorch
+- ### Recurrent Neural Network
+- ### Embedding and Word2vec
+- ### Sentiment Prediction RNN
+  - [Ex-Predicting Students Admition with NN](https://nbviewer.org/github/hotstocks/quant/blob/main/P6-Sentiment-Analysis/intro_to_neural_networks/StudentAdmissions.ipynb)
+  - [Ex-Skipgram Word2vec](https://nbviewer.org/github/hotstocks/quant/blob/main/P6-Sentiment-Analysis/embeddings_word2vec/Skip_Grams_Exercise.ipynb)
+  - [Ex-Negative sampling Exercise](https://nbviewer.org/github/hotstocks/quant/blob/main/P6-Sentiment-Analysis/embeddings_word2vec/Negative_Sampling_Exercise.ipynb)
+  - [Ex-Sentiment Prediction with RNN](https://nbviewer.org/github/hotstocks/quant/blob/main/P6-Sentiment-Analysis/sentiment_prediction_rnn/Sentiment_RNN_Exercise.ipynb)
 
 ---------------
 
