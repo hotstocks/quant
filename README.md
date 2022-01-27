@@ -1,5 +1,5 @@
 
-### Financial Engineering and Portfolio Optimization
+# Financial Engineering and Portfolio Optimization
 
 ## Part - I : Quantative Analysis
 
