@@ -37,8 +37,25 @@
   - [Ex-Portfolio variance Return](https://nbviewer.org/github/hotstocks/quant/blob/main/P4-Alpha-Research/risk_factor_models/factor_model_portfolio_return.ipynb)
   
 - #### Time Series and Cros-sectional Risk Model
+
 - #### Risk Factor Model with PCA
+  - [PCA as Risk Factor Model](https://nbviewer.org/github/hotstocks/quant/blob/main/P4-Alpha-Research/risk_factor_models_pca/pca_factor_model.ipynb)
+  
 - #### Alpha Factor
+  - [Sector Neutral Exercise](https://nbviewer.org/github/hotstocks/quant/blob/main/P4-Alpha-Research/alpha_factors/sector_neutral_solution.ipynb)
+  - [Ranking](https://nbviewer.org/github/hotstocks/quant/blob/main/P4-Alpha-Research/alpha_factors/rank_solution.ipynb)
+  - [Z-score](https://nbviewer.org/github/hotstocks/quant/blob/main/P4-Alpha-Research/alpha_factors/zscore.ipynb)
+  - [Smothing](https://nbviewer.org/github/hotstocks/quant/blob/main/P4-Alpha-Research/alpha_factors/smoothing.ipynb)
+  - [Factor Returns](https://nbviewer.org/github/hotstocks/quant/blob/main/P4-Alpha-Research/alpha_factors/factor_returns_solution.ipynb)
+  - [PCA as Factor Model](https://nbviewer.org/github/hotstocks/quant/blob/main/P4-Alpha-Research/alpha_factors/pca_factor_model_solution.ipynb)
+  - [Clean Forward Returns](https://nbviewer.org/github/hotstocks/quant/blob/main/P4-Alpha-Research/alpha_factors/clean_forward_returns_solution.ipynb)
+  - [Sharpe Ratio](https://nbviewer.org/github/hotstocks/quant/blob/main/P4-Alpha-Research/alpha_factors/sharpe_ratio_solution.ipynb)
+  - [Ranked Information Coefficients](https://nbviewer.org/github/hotstocks/quant/blob/main/P4-Alpha-Research/alpha_factors/rank_ic_solution.ipynb)
+  - [Turnover](https://nbviewer.org/github/hotstocks/quant/blob/main/P4-Alpha-Research/alpha_factors/turnover.ipynb)
+  - [Quantile Analysis](https://nbviewer.org/github/hotstocks/quant/blob/main/P4-Alpha-Research/alpha_factors/quantiles_solution.ipynb)
+  - [Transfer Coefficient](https://nbviewer.org/github/hotstocks/quant/blob/main/P4-Alpha-Research/alpha_factors/transfer_coefficient.ipynb)
+
+
 - #### Alpha Factor Research Method
 
 
